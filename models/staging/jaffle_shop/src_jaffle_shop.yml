@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    description: A close of a Postgres application database.
+    description: A clone of a Postgres application database.
     database: raw
     schema: jaffle_shop
     tables:
